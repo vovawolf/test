@@ -1,3 +1,16 @@
-body {
-  background: #ff0000;
+@import "js_widgets/slick";
+@import "index";
+
+$base_background: #f00;
+#responsive {
+	.item {
+		height: 100px;
+		background: #000000;
+		border: 2px solid $base_background;
+		text-align: center;
+		padding-top: 50px;
+		font: {
+			size: 20px;
+		}
+	}
 }
