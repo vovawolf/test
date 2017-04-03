@@ -1,0 +1,50 @@
+.sl, .sl1 {
+	.sl__img {
+		width: 100%;
+	}
+	.slick-dots {
+		position: relative;
+		text-align: center;
+		bottom: 40px;
+		li {
+			margin: 0 8px;
+			display: inline-block;
+			width: 26px;
+			height: 18px;
+			button {
+				font-size: 0;
+				width: 24px;
+				height: 16px;
+				border-radius: 8px;
+				border: none;
+				background: rgba(255, 255, 255, 0.9);
+				outline: 0;
+				&:before {
+					content: '';
+					width: 12px;
+					height: 8px;
+					background: transparent;
+					border-radius: 4px;
+					opacity: 1;
+					top: 50%;
+					left: 50%;
+					margin: -4px 0 0 -6px;
+					-webkit-transition: border-color .3s;
+					-o-transition: border-color .3s;
+					transition: border-color .3s;
+				}
+				&:hover {
+					background: #fff;
+				}
+			}
+		}
+		li.slick-active{
+			button {
+				background: $sv__orange;
+			}
+			button:before {
+				background: $sv__orange;
+			}
+		}
+	}
+}

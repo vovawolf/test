@@ -1,16 +1,175 @@
 @import "js_widgets/slick";
 @import "index";
+@import "fonts";
+@import "color";
+@import "icofonts";
+@import "slick";
+@import "title";
+@import "proects";
+@import "header";
+@import "catalog";
+@import "inform";
+@import "kamin24";
+@import "know";
 
-$base_background: #f00;
-#responsive {
-	.item {
-		height: 100px;
-		background: #000000;
-		border: 2px solid $base_background;
-		text-align: center;
-		padding-top: 50px;
-		font: {
-			size: 20px;
+
+
+
+ul,
+ul li,
+ul li a,
+ul li a span {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none;
+	list-style: none;
+}
+
+.clearfix {
+	&:before,
+	&:after {
+		content: " ";
+		display: table;
+	}
+	&:after {
+		clear: both;
+	}
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	height: 100%;
+	font-family: 'calibril', serif;
+}
+body {
+	background: url(../images/bg.jpg) repeat;
+	background-attachment: fixed
+}
+*,*:after,*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+}
+a, a:hover, a:active, a:visited {
+	text-decoration: none;
+}
+
+.contentFix {
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+@media screen and (max-width: 1024px) {
+	.catalogKamenuAll {
+		.owl__item, .two__item {
+			width: 50%;
+			font-size: 34px;
+		}
+		.one__item {
+			 width: 100%;
+			font-size: 50px;
+		 }
+	}
+	.information {
+		.information__block {
+			font-size: 30px;
+			flex-wrap: wrap;
+		}
+		.one__information {
+			width: 100%;
+			&:first-child {
+				margin: 0 0 20px 0;
+			}
+		}
+	}
+	header {
+		background: #0d2334;
+		.menu {
+			display: block;
+			position: absolute;
+			top: 69px;
+			width: 100%;
+			left: 0;
+			background: #192e3e;
+			font-size: 22px;
+			li {
+				display: block;
+				width: 100%;
+				border-top: 1px solid rgba(255, 255, 255, .05);
+				line-height: 60px;
+				margin: 0;
+				a {
+					padding-left: 5%;
+				}
+			}
+		}
+		.menu__list {
+			a {
+				display: block;
+				width: 100%;
+			}
+			.arrow {
+				width: 40px;
+				height: 40px;
+				border-radius: 3px;
+				background: rgba(255, 255, 255, .05);
+				display: block;
+				position: absolute;
+				top: 10px;
+				right: 5%;
+				&:hover {
+						transform: rotate(180deg);
+				}
+				&:active {
+					.menu__drop {
+						display: none;
+					}
+				}
+			}
+			.icon-ico-11:before {
+				content: "\e903";
+				position: absolute;
+				top: 9px;
+				left: 11px;
+				font-size: 19px;
+			}
+			.menu__drop {
+				text-align: left;
+				background: rgba(0, 0, 0, .2);
+				display: block;
+				width: 100%;
+				padding: 0;
+				li {
+					img {
+						display: none;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.catalogKamenuAll {
+		.owl__item, .one__item, .two__item {
+			width: 100%;
+			font-size: 60px;
+		}
+	}
+}
+
+@media screen and (min-width: 600px) and (max-width: 800px){
+	header {
+		.lang {
+			display:none;
 		}
 	}
 }
