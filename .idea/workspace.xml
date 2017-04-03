@@ -2,68 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="188aca5b-845e-45ce-8ad5-37cb895237c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/Akrobat-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/akrobat/Akrobat-Bold-clean.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/akrobat/Akrobat-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/akrobat/Akrobat-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/akrobat/Akrobat-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibrib.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibrib/calibrib-clean.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibrib/calibrib.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibrib/calibrib.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibrib/calibrib.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibril.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibril/calibril-clean.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibril/calibril.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibril/calibril.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibril/calibril.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/granite.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/info1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/info2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/kamin24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/know.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/logo-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/marble.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/onix.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/proFirmu1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/proFirmu2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/quarz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/sl1_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/sl1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/sl1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/sl2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/sl2_1.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/sl2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/sl2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/images/travertine.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/menu/frontend/javascript/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/menu/frontend/sass/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/menu/frontend/sass/menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/menu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/akrobat/Akrobat-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibrib/calibrib.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/calibril/calibril.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/catalog.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/color.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/icofonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/inform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/kamin24.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/know.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/proects.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/title.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/Cube/index.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/Cube/index.html" afterPath="$PROJECT_DIR$/themes/cubeR/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/test/frontend/javascript/index.js" afterPath="$PROJECT_DIR$/themes/test/frontend/javascript/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/test/frontend/sass/main.scss" afterPath="$PROJECT_DIR$/themes/test/frontend/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/test/index.html" afterPath="$PROJECT_DIR$/themes/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -81,35 +23,35 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/menu/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/menu/frontend/sass/main.scss">
+        <entry file="file://$PROJECT_DIR$/themes/test/frontend/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="90">
+              <caret line="95" column="21" lean-forward="false" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="16" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/cubeR/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,10 +61,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -141,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.babelrc" />
@@ -169,6 +110,9 @@
         <option value="$PROJECT_DIR$/themes/menu/frontend/sass/menu.scss" />
         <option value="$PROJECT_DIR$/themes/menu/index.html" />
         <option value="$PROJECT_DIR$/themes/menu/frontend/sass/main.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/themes/Cube/index.html" />
+        <option value="$PROJECT_DIR$/themes/cubeR/index.html" />
       </list>
     </option>
   </component>
@@ -209,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,14 +190,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cubeR" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,12 +219,13 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes" />
+      <recent name="$PROJECT_DIR$/themes/test" />
+      <recent name="$PROJECT_DIR$/themes/test/frontend/sass" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/test/frontend/sass" />
-      <recent name="$PROJECT_DIR$/themes/test" />
     </key>
   </component>
   <component name="RunManager">
@@ -381,23 +330,35 @@
       <workItem from="1490299159684" duration="323000" />
       <workItem from="1490545473569" duration="944000" />
       <workItem from="1490546449031" duration="280000" />
-      <workItem from="1490684656963" duration="226000" />
+      <workItem from="1490684656963" duration="385000" />
+      <workItem from="1490685227215" duration="218000" />
+      <workItem from="1490950478474" duration="59000" />
+      <workItem from="1490957787811" duration="62000" />
+      <workItem from="1491236714518" duration="1158000" />
     </task>
+    <task id="LOCAL-00001" summary="1&#10;">
+      <created>1491238140459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491238140459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64032000" />
+    <option name="totallyTimeSpent" value="65688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24665257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.50528544" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3385542" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28674698" sideWeight="0.4947146" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28674698" sideWeight="0.4947146" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -434,25 +395,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="1&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/test/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/test/frontend/sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/test/frontend/sass/_index.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -687,20 +638,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/menu/js/bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/test/frontend/sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="95" column="21" lean-forward="false" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/menu/js/bundle.js" />
     <entry file="file://$PROJECT_DIR$/themes/test/frontend/javascript/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
@@ -710,35 +648,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/menu/frontend/sass/proects.scss" />
     <entry file="file://$PROJECT_DIR$/themes/menu/frontend/sass/_index.scss" />
-    <entry file="file://$PROJECT_DIR$/themes/menu/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/menu/stylesheets/bundle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1515">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/menu/stylesheets/vendors.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3315">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/menu/frontend/sass/menu.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/menu/index.html" />
+    <entry file="file://$PROJECT_DIR$/themes/menu/stylesheets/bundle.css" />
+    <entry file="file://$PROJECT_DIR$/themes/menu/stylesheets/vendors.css" />
+    <entry file="file://$PROJECT_DIR$/themes/menu/frontend/sass/menu.scss" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -764,15 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/menu/frontend/sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,6 +684,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/menu/frontend/sass/main.scss" />
+    <entry file="file://$PROJECT_DIR$/themes/test/frontend/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="95" column="21" lean-forward="false" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -787,8 +699,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="16" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -797,6 +709,22 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/cube/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/cubeR/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
