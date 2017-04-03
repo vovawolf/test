@@ -12,5 +12,3 @@
 
 
 
-# cube
-# cubeR
